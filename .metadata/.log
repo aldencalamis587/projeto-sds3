@@ -8408,3 +8408,6 @@ Caused by: java.net.UnknownHostException: www-bin.prevnet
 	at io.takari.aether.connector.AetherRepositoryConnector$DirectExecutor.execute(AetherRepositoryConnector.java:915)
 	at io.takari.aether.connector.AetherRepositoryConnector.get(AetherRepositoryConnector.java:331)
 	... 22 more
+
+!ENTRY org.eclipse.ui 2 2 2021-09-10 18:19:57.489
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
